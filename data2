@@ -1,38 +1,62 @@
 [
   {
-    "img":"https://i.ibb.co/XbyLw32/Enroll-p8.png"
+    "title": "this is a title in this section",
+    "description": "this is a mini introduction of this section. or a descriptipn",
+    "img": "https://i.ibb.co/XbyLw32/Enroll-p8.png"
   },
   {
-    "img":"https://i.ibb.co/xgLGqJt/Enroll-p11.png"
+    "title": "this is a title in this section",
+    "description": "this is a mini introduction of this section. or a descriptipn",
+    "img": "https://i.ibb.co/xgLGqJt/Enroll-p11.png"
   },
   {
-    "img":"https://i.ibb.co/5Gm3cp4/screencapture-localhost-4000-user-profile-2022-03-19-13-46-45.png"
+    "title": "this is a title in this section",
+    "description": "this is a mini introduction of this section. or a descriptipn",
+    "img": "https://i.ibb.co/5Gm3cp4/screencapture-localhost-4000-user-profile-2022-03-19-13-46-45.png"
   },
   {
-    "img":"https://i.ibb.co/3sC3Z5Y/E2E-P1.png"
+    "title": "this is a title in this section",
+    "description": "this is a mini introduction of this section. or a descriptipn",
+    "img": "https://i.ibb.co/3sC3Z5Y/E2E-P1.png"
   },
   {
-    "img":"https://i.ibb.co/NW4FMGG/My-program-p3.png"
+    "title": "this is a title in this section",
+    "description": "this is a mini introduction of this section. or a descriptipn",
+    "img": "https://i.ibb.co/NW4FMGG/My-program-p3.png"
   },
   {
-    "img":"https://i.ibb.co/2g69946/My-program-p1.png"
+    "title": "this is a title in this section",
+    "description": "this is a mini introduction of this section. or a descriptipn",
+    "img": "https://i.ibb.co/2g69946/My-program-p1.png"
   },
   {
-    "img":"https://i.ibb.co/Lnyp7Dn/My-audio-video-p2.png"
+    "title": "this is a title in this section",
+    "description": "this is a mini introduction of this section. or a descriptipn",
+    "img": "https://i.ibb.co/Lnyp7Dn/My-audio-video-p2.png"
   },
   {
-    "img":"https://i.ibb.co/4sFVMjB/My-progress-p1.png"
+    "title": "this is a title in this section",
+    "description": "this is a mini introduction of this section. or a descriptipn",
+    "img": "https://i.ibb.co/4sFVMjB/My-progress-p1.png"
   },
   {
-    "img":"https://i.ibb.co/nCzLwmX/Document-lab-p1.png"
+    "title": "this is a title in this section",
+    "description": "this is a mini introduction of this section. or a descriptipn",
+    "img": "https://i.ibb.co/nCzLwmX/Document-lab-p1.png"
   },
   {
-    "img":"https://i.ibb.co/x8gMkrm/My-program-p2.png"
+    "title": "this is a title in this section",
+    "description": "this is a mini introduction of this section. or a descriptipn",
+    "img": "https://i.ibb.co/x8gMkrm/My-program-p2.png"
   },
   {
-    "img":"https://i.ibb.co/3sC3Z5Y/E2E-P1.png"
+    "title": "this is a title in this section",
+    "description": "this is a mini introduction of this section. or a descriptipn",
+    "img": "https://i.ibb.co/3sC3Z5Y/E2E-P1.png"
   },
   {
-    "img":"https://i.ibb.co/5Gm3cp4/screencapture-localhost-4000-user-profile-2022-03-19-13-46-45.png"
+    "title": "this is a title in this section",
+    "description": "this is a mini introduction of this section. or a descriptipn",
+    "img": "https://i.ibb.co/5Gm3cp4/screencapture-localhost-4000-user-profile-2022-03-19-13-46-45.png"
   }
 ]
