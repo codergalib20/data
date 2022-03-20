@@ -1,72 +1,84 @@
 [
   {
     "_id": 1,
+    "image_style": "large",
     "img": "https://i.ibb.co/Lnyp7Dn/My-audio-video-p2.png",
     "name": "This is name of this components",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa ullam corporis, tenetur quos doloribus tempora officia magnam quam iure necessitatibus, <italic>dignissimos labore</italic> ratione expedita voluptate maiores deleniti excepturi? Voluptates accusantium tempore itaque beatae officiis molestias dolorum ad, veniam recusandae. Architecto nulla consequatur esse <strong>tempore accusamus<strong>  ea sapiente consectetur rem odio ipsum fugit molestiae, obcaecati veniam dicta fugiat velit, et qui dignissimos distinctio minima magni aut ipsam. Tempore sint nesciunt voluptates reprehenderit, laboriosam at iste, nisi rem error quod fugiat quisquam sed ut maiores consequuntur sunt blanditiis aliquam eveniet soluta illum nemo cum. Quos sunt earum dolores repellendus minima impedit eum."
   },
   {
     "_id": 2,
+    "image_style": "large",
     "img": "https://i.ibb.co/nCzLwmX/Document-lab-p1.png",
     "name": "This is name of this components",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa ullam corporis, tenetur quos doloribus tempora officia magnam quam iure necessitatibus, <italic>dignissimos labore</italic> ratione expedita voluptate maiores deleniti excepturi? Voluptates accusantium tempore itaque beatae officiis molestias dolorum ad, veniam recusandae. Architecto nulla consequatur esse <strong>tempore accusamus<strong>  ea sapiente consectetur rem odio ipsum fugit molestiae, obcaecati veniam dicta fugiat velit, et qui dignissimos distinctio minima magni aut ipsam. Tempore sint nesciunt voluptates reprehenderit, laboriosam at iste, nisi rem error quod fugiat quisquam sed ut maiores consequuntur sunt blanditiis aliquam eveniet soluta illum nemo cum. Quos sunt earum dolores repellendus minima impedit eum."
   },
   {
     "_id": 3,
+    "image_style": "large",
     "img": "https://i.ibb.co/zVStd9k/Shout-out-p1.png",
     "name": "This is name of this components",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa ullam corporis, tenetur quos doloribus tempora officia magnam quam iure necessitatibus, <italic>dignissimos labore</italic> ratione expedita voluptate maiores deleniti excepturi? Voluptates accusantium tempore itaque beatae officiis molestias dolorum ad, veniam recusandae. Architecto nulla consequatur esse <strong>tempore accusamus<strong>  ea sapiente consectetur rem odio ipsum fugit molestiae, obcaecati veniam dicta fugiat velit, et qui dignissimos distinctio minima magni aut ipsam. Tempore sint nesciunt voluptates reprehenderit, laboriosam at iste, nisi rem error quod fugiat quisquam sed ut maiores consequuntur sunt blanditiis aliquam eveniet soluta illum nemo cum. Quos sunt earum dolores repellendus minima impedit eum."
   },
   {
     "_id": 4,
+    "image_style": "tall",
     "img": "https://i.ibb.co/rMWQRWv/Enroll-p2-1.png",
     "name": "This is name of this components",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa ullam corporis, tenetur quos doloribus tempora officia magnam quam iure necessitatibus, <italic>dignissimos labore</italic> ratione expedita voluptate maiores deleniti excepturi? Voluptates accusantium tempore itaque beatae officiis molestias dolorum ad, veniam recusandae. Architecto nulla consequatur esse <strong>tempore accusamus<strong>  ea sapiente consectetur rem odio ipsum fugit molestiae, obcaecati veniam dicta fugiat velit, et qui dignissimos distinctio minima magni aut ipsam. Tempore sint nesciunt voluptates reprehenderit, laboriosam at iste, nisi rem error quod fugiat quisquam sed ut maiores consequuntur sunt blanditiis aliquam eveniet soluta illum nemo cum. Quos sunt earum dolores repellendus minima impedit eum."
   },
   {
     "_id": 5,
+    "image_style": "large",
     "img": "https://i.ibb.co/cXr5TWd/Enroll-p3-1.png",
     "name": "This is name of this components",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa ullam corporis, tenetur quos doloribus tempora officia magnam quam iure necessitatibus, <italic>dignissimos labore</italic> ratione expedita voluptate maiores deleniti excepturi? Voluptates accusantium tempore itaque beatae officiis molestias dolorum ad, veniam recusandae. Architecto nulla consequatur esse <strong>tempore accusamus<strong>  ea sapiente consectetur rem odio ipsum fugit molestiae, obcaecati veniam dicta fugiat velit, et qui dignissimos distinctio minima magni aut ipsam. Tempore sint nesciunt voluptates reprehenderit, laboriosam at iste, nisi rem error quod fugiat quisquam sed ut maiores consequuntur sunt blanditiis aliquam eveniet soluta illum nemo cum. Quos sunt earum dolores repellendus minima impedit eum."
   },
   {
     "_id": 6,
+    "image_style": "tall",
     "img": "https://i.ibb.co/GsP5Cgd/mobile-app2.png",
     "name": "This is name of this components",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa ullam corporis, tenetur quos doloribus tempora officia magnam quam iure necessitatibus, <italic>dignissimos labore</italic> ratione expedita voluptate maiores deleniti excepturi? Voluptates accusantium tempore itaque beatae officiis molestias dolorum ad, veniam recusandae. Architecto nulla consequatur esse <strong>tempore accusamus<strong>  ea sapiente consectetur rem odio ipsum fugit molestiae, obcaecati veniam dicta fugiat velit, et qui dignissimos distinctio minima magni aut ipsam. Tempore sint nesciunt voluptates reprehenderit, laboriosam at iste, nisi rem error quod fugiat quisquam sed ut maiores consequuntur sunt blanditiis aliquam eveniet soluta illum nemo cum. Quos sunt earum dolores repellendus minima impedit eum."
   },
   {
     "_id": 7,
+    "image_style": "tall",
     "img": "https://i.ibb.co/rMWQRWv/Enroll-p2-1.png",
     "name": "This is name of this components",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa ullam corporis, tenetur quos doloribus tempora officia magnam quam iure necessitatibus, <italic>dignissimos labore</italic> ratione expedita voluptate maiores deleniti excepturi? Voluptates accusantium tempore itaque beatae officiis molestias dolorum ad, veniam recusandae. Architecto nulla consequatur esse <strong>tempore accusamus<strong>  ea sapiente consectetur rem odio ipsum fugit molestiae, obcaecati veniam dicta fugiat velit, et qui dignissimos distinctio minima magni aut ipsam. Tempore sint nesciunt voluptates reprehenderit, laboriosam at iste, nisi rem error quod fugiat quisquam sed ut maiores consequuntur sunt blanditiis aliquam eveniet soluta illum nemo cum. Quos sunt earum dolores repellendus minima impedit eum."
   },
   {
     "_id": 8,
+    "image_style": "large",
     "img": "https://i.ibb.co/6npTZ17/Leaderboard-p1-1.png",
     "name": "This is name of this components",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa ullam corporis, tenetur quos doloribus tempora officia magnam quam iure necessitatibus, <italic>dignissimos labore</italic> ratione expedita voluptate maiores deleniti excepturi? Voluptates accusantium tempore itaque beatae officiis molestias dolorum ad, veniam recusandae. Architecto nulla consequatur esse <strong>tempore accusamus<strong>  ea sapiente consectetur rem odio ipsum fugit molestiae, obcaecati veniam dicta fugiat velit, et qui dignissimos distinctio minima magni aut ipsam. Tempore sint nesciunt voluptates reprehenderit, laboriosam at iste, nisi rem error quod fugiat quisquam sed ut maiores consequuntur sunt blanditiis aliquam eveniet soluta illum nemo cum. Quos sunt earum dolores repellendus minima impedit eum."
   },
   {
     "_id": 9,
+    "image_style": "large",
     "img": "https://i.ibb.co/jvrKNwK/Feedback-p2-1.png",
     "name": "This is name of this components",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa ullam corporis, tenetur quos doloribus tempora officia magnam quam iure necessitatibus, <italic>dignissimos labore</italic> ratione expedita voluptate maiores deleniti excepturi? Voluptates accusantium tempore itaque beatae officiis molestias dolorum ad, veniam recusandae. Architecto nulla consequatur esse <strong>tempore accusamus<strong>  ea sapiente consectetur rem odio ipsum fugit molestiae, obcaecati veniam dicta fugiat velit, et qui dignissimos distinctio minima magni aut ipsam. Tempore sint nesciunt voluptates reprehenderit, laboriosam at iste, nisi rem error quod fugiat quisquam sed ut maiores consequuntur sunt blanditiis aliquam eveniet soluta illum nemo cum. Quos sunt earum dolores repellendus minima impedit eum."
   },
   {
     "_id": 10,
+    "image_style": "tall",
     "img": "https://i.ibb.co/YfMX893/mobile-app1.png",
     "name": "This is name of this components",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa ullam corporis, tenetur quos doloribus tempora officia magnam quam iure necessitatibus, <italic>dignissimos labore</italic> ratione expedita voluptate maiores deleniti excepturi? Voluptates accusantium tempore itaque beatae officiis molestias dolorum ad, veniam recusandae. Architecto nulla consequatur esse <strong>tempore accusamus<strong>  ea sapiente consectetur rem odio ipsum fugit molestiae, obcaecati veniam dicta fugiat velit, et qui dignissimos distinctio minima magni aut ipsam. Tempore sint nesciunt voluptates reprehenderit, laboriosam at iste, nisi rem error quod fugiat quisquam sed ut maiores consequuntur sunt blanditiis aliquam eveniet soluta illum nemo cum. Quos sunt earum dolores repellendus minima impedit eum."
   },
   {
     "_id": 11,
+    "image_style": "large",
     "img": "https://i.ibb.co/wWTDYf8/Purchase-p2.png",
     "name": "This is name of this components",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa ullam corporis, tenetur quos doloribus tempora officia magnam quam iure necessitatibus, <italic>dignissimos labore</italic> ratione expedita voluptate maiores deleniti excepturi? Voluptates accusantium tempore itaque beatae officiis molestias dolorum ad, veniam recusandae. Architecto nulla consequatur esse <strong>tempore accusamus<strong>  ea sapiente consectetur rem odio ipsum fugit molestiae, obcaecati veniam dicta fugiat velit, et qui dignissimos distinctio minima magni aut ipsam. Tempore sint nesciunt voluptates reprehenderit, laboriosam at iste, nisi rem error quod fugiat quisquam sed ut maiores consequuntur sunt blanditiis aliquam eveniet soluta illum nemo cum. Quos sunt earum dolores repellendus minima impedit eum."
   },
   {
     "_id": 12,
+    "image_style": "tall",
     "img": "https://i.ibb.co/VQmy5sm/Calendar-p2.png",
     "name": "This is name of this components",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa ullam corporis, tenetur quos doloribus tempora officia magnam quam iure necessitatibus, <italic>dignissimos labore</italic> ratione expedita voluptate maiores deleniti excepturi? Voluptates accusantium tempore itaque beatae officiis molestias dolorum ad, veniam recusandae. Architecto nulla consequatur esse <strong>tempore accusamus<strong>  ea sapiente consectetur rem odio ipsum fugit molestiae, obcaecati veniam dicta fugiat velit, et qui dignissimos distinctio minima magni aut ipsam. Tempore sint nesciunt voluptates reprehenderit, laboriosam at iste, nisi rem error quod fugiat quisquam sed ut maiores consequuntur sunt blanditiis aliquam eveniet soluta illum nemo cum. Quos sunt earum dolores repellendus minima impedit eum."
